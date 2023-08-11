@@ -1,0 +1,48 @@
+<!-- Menu Start -->
+<div class="menu">
+	<div class="container">
+		
+		<div class="section-header text-center">
+			<p>
+				Foaps Food Menu
+				<button class="btn btn-lg" onclick="location.reload();">
+					<i class="fas fa-sync-alt"></i>
+				</button>
+			</p>
+			<h2>Delicious Food Menu</h2>
+		</div>
+		<div class="menu-tab">
+			<div class="tab-content">
+				<% @categories.map do |category| %>
+				<div class="menu-text">
+					<h2><span><%= category.name %></span></h2>
+				</div>
+				<div class="container tab-pane active">
+					<div class="row">
+						<div class="col-lg-7 col-md-12">
+							<% category.menu_items.map do |item| %>
+							<div class="menu-item">
+								<div class="menu-img">
+									<% if item.dish_type.eql?('Non-Veg') %>
+									<img src="https://img.icons8.com/?size=120&id=61082&format=png" alt="Non Vegetarian Food Symbol icon" loading="lazy" style="width:60px;height:60px;">
+									<% else %>
+									<img src="https://img.icons8.com/?size=120&id=61083&format=png" alt=" Vegetarian Food Symbol icon" loading="lazy" style="width:60px;height:60px;">
+									<% end %>
+								</div>
+								<div class="menu-text">
+									<h3><span><%= item.name %></span> <strong>₹<%= item.price %> </strong></h3>
+									<p><%= item.description.truncate(35) %></p>
+								</div>
+							</div>
+							<% end %>
+							
+						</div>
+					</div>
+				</div>
+				<% end %>
+			</div>
+		</div>
+	</div>
+</div>
+<!-- Menu End -->
+<%= render "import" %>

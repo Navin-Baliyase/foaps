@@ -1,0 +1,14 @@
+<div class="food mt-0">
+	<div class="container">
+		<div class="align-items-center">
+			<%= form_tag import_menus_path, method: :post, multipart: true do %>
+			<div class="input-group">
+				<%= file_field_tag :file, accept: ".csv", class: "form-control" %>
+				<%= submit_tag '⚙️ Import', class: "btn btn-outline-success" %>
+				<%#= button_tag "Import CSV", { class: "btn btn-primary btn-sm", "data-disable-with" => "<i class='fa fa-circle-o-notch fa-spin'></i> Importing".html_safe }.merge(submit_options) %>
+
+			</div>
+			<% end %>
+		</div>
+	</div>
+</div>
