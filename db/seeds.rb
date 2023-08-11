@@ -6,8 +6,11 @@ headers = ["dish_name", "dish_description", "dish_type", "allergens", "Category"
 # No. of rows to be generated
 count = 100
 
+# generate csv path
+path = Rails.root.join('public', 'menu_sample.csv')
+
 # Generate and write data
-CSV.open("sample_data.csv", "w", write_headers: true, headers: headers) do |csv|
+CSV.open(path, "w", write_headers: true, headers: headers) do |csv|
   count.times do |i|
     csv << [
       Faker::Food.dish + " -#{i}",

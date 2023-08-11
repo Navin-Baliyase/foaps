@@ -1,0 +1,101 @@
+dish_name,dish_description,dish_type,allergens,Category,Price
+Chicken Milanese -0,"Fresh Norwegian salmon, lightly brushed with our herbed Dijon mustard sauce, with choice of two sides.",Non-Veg,Soy,Chechen,176.15
+Tuna Sashimi -1,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Sulphites,Serbian,169.58
+Caesar Salad -2,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Veg,Soy,Japanese,87.34
+Chicken Milanese -3,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Veg,Crustaceans and molluscs,Portuguese,154.29
+California Maki -4,"Breaded fried chicken with waffles, and a side of maple syrup.",Non-Veg,Fish,Goan,184.24
+Tuna Sashimi -5,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Veg,Fish,Indian Chinese,175.41
+Barbecue Ribs -6,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Eggs,Indian Singaporean cuisine,177.59
+Pork Belly Buns -7,"28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",Veg,Soy,Indian Chinese,54.4
+Sushi -8,"28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",Veg,Fish,Thai,111.08
+Barbecue Ribs -9,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Non-Veg,Milk,Belarusian,191.49
+Caesar Salad -10,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Mustard,Lithuanian,134.51
+Scotch Eggs -11,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Milk,Cantonese,120.55
+Chicken Parm -12,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Fish,Caribbean,65.32
+California Maki -13,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Wheat and triticale,Indonesian,121.15
+Teriyaki Chicken Donburi -14,"28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",Veg,Soy,English,145.03
+Meatballs with Sauce -15,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Eggs,Eritrean,111.3
+Barbecue Ribs -16,"Fresh Norwegian salmon, lightly brushed with our herbed Dijon mustard sauce, with choice of two sides.",Non-Veg,Mustard,German,122.48
+Stinky Tofu -17,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Non-Veg,Tree Nuts,Cajun,130.39
+Chicken Wings -18,Breaded fried chicken with waffles. Served with maple syrup.,Non-Veg,Sulphites,Eritrean,167.27
+Pasta with Tomato and Basil -19,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Non-Veg,Peanuts,Armenian,65.98
+Tuna Sashimi -20,"Breaded fried chicken with waffles, and a side of maple syrup.",Veg,Fish,Cantonese,99.68
+Caesar Salad -21,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Eggs,Vietnamese,51.0
+Teriyaki Chicken Donburi -22,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Sesame seeds,Peruvian,161.35
+Barbecue Ribs -23,Breaded fried chicken with waffles. Served with maple syrup.,Veg,Tree Nuts,Mediterranean cuisine,182.74
+Som Tam -24,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Non-Veg,Mustard,Cajun,73.4
+Sushi -25,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Tree Nuts,Mughal,126.38
+Pasta with Tomato and Basil -26,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Peanuts,Rajasthani,115.1
+Tiramisù -27,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Non-Veg,Peanuts,Soviet,145.82
+Ebiten maki -28,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Non-Veg,Sulphites,Chinese cuisine,85.67
+Souvlaki -29,"Fresh Norwegian salmon, lightly brushed with our herbed Dijon mustard sauce, with choice of two sides.",Veg,Sulphites,Assyrian,151.98
+California Maki -30,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Veg,Mustard,Azerbaijani,134.87
+Pho -31,"Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Mustard,Udupi,58.5
+Pork Belly Buns -32,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Veg,Soy,Hyderabad,134.59
+Teriyaki Chicken Donburi -33,"Breaded fried chicken with waffles, and a side of maple syrup.",Non-Veg,Tree Nuts,Polish,63.93
+Cauliflower Penne -34,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Non-Veg,Peanuts,Québécois,163.63
+Barbecue Ribs -35,"Breaded fried chicken with waffles, and a side of maple syrup.",Non-Veg,Soy,Brazilian,70.0
+Fettuccine Alfredo -36,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Veg,Peanuts,Mennonite,133.17
+California Maki -37,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Soy,Somali,135.89
+Risotto with Seafood -38,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Tree Nuts,Egyptian,164.7
+Pork Belly Buns -39,Breaded fried chicken with waffles. Served with maple syrup.,Non-Veg,Sesame seeds,German,107.14
+Chicken Milanese -40,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Peanuts,Portuguese,113.47
+Salmon Nigiri -41,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Veg,Crustaceans and molluscs,Sami,125.9
+Mushroom Risotto -42,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Non-Veg,Sulphites,Rajasthani,176.72
+Tuna Sashimi -43,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Non-Veg,Sesame seeds,Buddhist,195.99
+Chilli con Carne -44,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Veg,Crustaceans and molluscs,Balochi,86.47
+Chicken Fajitas -45,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Veg,Sulphites,Inuit,79.36
+Tacos -46,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Non-Veg,Soy,Awadhi,187.09
+Fettuccine Alfredo -47,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Veg,Sulphites,Bangladeshi,151.91
+Pork Sausage Roll -48,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Non-Veg,Eggs,Irish,68.25
+Poke -49,"Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",Non-Veg,Fish,Belarusian,105.64
+Pork Belly Buns -50,"Three egg whites with spinach, mushrooms, caramelized onions, tomatoes and low-fat feta cheese. With herbed quinoa, and your choice of rye or whole-grain toast.",Non-Veg,Wheat and triticale,Laotian,172.7
+Chilli con Carne -51,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Soy,Armenian,118.5
+Poke -52,"28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",Veg,Tree Nuts,Turkish,173.99
+Bruschette with Tomato -53,"Fresh Norwegian salmon, lightly brushed with our herbed Dijon mustard sauce, with choice of two sides.",Veg,Sulphites,French,92.59
+Massaman Curry -54,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Peanuts,Malaysian Chinese cuisine,136.61
+Tacos -55,"Breaded fried chicken with waffles, and a side of maple syrup.",Non-Veg,Wheat and triticale,Czech,146.29
+Pierogi -56,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Veg,Mustard,American,76.93
+Pappardelle alla Bolognese -57,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Peanuts,Taiwanese,83.11
+Vegetable Soup -58,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Crustaceans and molluscs,Chinese cuisine,161.24
+Kebab -59,"Breaded fried chicken with waffles, and a side of maple syrup.",Non-Veg,Milk,Japanese,187.64
+Souvlaki -60,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Veg,Mustard,Slovenian,193.94
+Caesar Salad -61,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Sulphites,Brazilian,143.24
+Caprese Salad -62,Breaded fried chicken with waffles. Served with maple syrup.,Non-Veg,Sesame seeds,Georgian,167.08
+Stinky Tofu -63,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Milk,Pashtun,74.2
+Pappardelle alla Bolognese -64,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Veg,Tree Nuts,Lithuanian,99.56
+Pork Sausage Roll -65,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Non-Veg,Sesame seeds,German,86.4
+Pierogi -66,"Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Sulphites,Anglo-Indian,123.78
+Souvlaki -67,"Breaded fried chicken with waffles, and a side of maple syrup.",Veg,Sulphites,Jamaican,182.18
+Pierogi -68,"Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",Non-Veg,Mustard,Mordovian,192.62
+Caesar Salad -69,"28-day aged 300g USDA Certified Prime Ribeye, rosemary-thyme garlic butter, with choice of two sides.",Non-Veg,Sulphites,Kazakh,187.72
+Fish and Chips -70,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Sulphites,Indian Singaporean cuisine,57.73
+Som Tam -71,"Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Fish,Spanish,54.5
+Bruschette with Tomato -72,"Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Peanuts,Pashtun,119.67
+Souvlaki -73,"Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",Non-Veg,Milk,Chechen,93.42
+Peking Duck -74,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Sesame seeds,Pashtun,63.01
+Chicken Wings -75,"Three egg omelet with Roquefort cheese, chives, and ham. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Mustard,Maharashtrian,117.46
+Meatballs with Sauce -76,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Mustard,Lithuanian,95.99
+Lasagne -77,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Veg,Sesame seeds,Rajasthani,89.9
+Pasta with Tomato and Basil -78,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Sesame seeds,Yamal,125.8
+Lasagne -79,"Smoked salmon, poached eggs, diced red onions and Hollandaise sauce on an English muffin. With a side of roasted potatoes.",Non-Veg,Sulphites,Danish,186.67
+French Fries with Sausages -80,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Non-Veg,Wheat and triticale,Indian Chinese,130.7
+French Fries with Sausages -81,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Sulphites,Arab,163.5
+Massaman Curry -82,"Three eggs with cilantro, tomatoes, onions, avocados and melted Emmental cheese. With a side of roasted potatoes, and your choice of toast or croissant.",Veg,Peanuts,Cantonese,160.87
+Pho -83,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Non-Veg,Peanuts,Mediterranean cuisine,167.95
+Sushi -84,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Veg,Sesame seeds,Jewish - Israeli,194.26
+Chicken Wings -85,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Veg,Fish,Slovenian,169.41
+Chicken Wings -86,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Veg,Soy,Inuit,192.41
+Risotto with Seafood -87,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Non-Veg,Soy,Nepalese,113.3
+Chilli con Carne -88,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Tree Nuts,Peruvian,132.04
+Caesar Salad -89,Breaded fried chicken with waffles. Served with maple syrup.,Non-Veg,Peanuts,Soviet,90.09
+Chicken Parm -90,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Non-Veg,Peanuts,Czech,51.59
+Chicken Fajitas -91,"Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Fish,Cypriot,99.64
+Tacos -92,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Veg,Peanuts,Somali,96.28
+Cauliflower Penne -93,"Two butter croissants of your choice (plain, almond or cheese). With a side of herb butter or house-made hazelnut spread.",Veg,Peanuts,Parsi,68.11
+Ricotta Stuffed Ravioli -94,"Granny Smith apples mixed with brown sugar and butter filling, in a flaky all-butter crust, with ice cream.",Veg,Sulphites,Slovenian,50.07
+Chicken Parm -95,"Two buttermilk waffles, topped with whipped cream and maple syrup, a side of two eggs served any style, and your choice of smoked bacon or smoked ham.",Non-Veg,Wheat and triticale,Texan,175.51
+Pork Sausage Roll -96,"Creamy mascarpone cheese and custard layered between espresso and rum soaked house-made ladyfingers, topped with Valrhona cocoa powder.",Veg,Wheat and triticale,Ainu,183.8
+Cauliflower Penne -97,Breaded fried chicken with waffles. Served with maple syrup.,Non-Veg,Tree Nuts,Pennsylvania Dutch,78.29
+Som Tam -98,"Thick slices of French toast bread, brown sugar, half-and-half and vanilla, topped with powdered sugar. With two eggs served any style, and your choice of smoked bacon or smoked ham.",Veg,Mustard,Rajasthani,149.98
+Pierogi -99,"Fresh parsley, Italian sausage, shallots, garlic, sun-dried tomatoes and mozzarella cheese in an all-butter crust. With a side of mixed fruits.",Veg,Sulphites,Mangalorean,57.66
